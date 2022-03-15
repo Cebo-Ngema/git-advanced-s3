@@ -76,3 +76,5 @@ flights %>%
 flights %>%
   distinct(carrier)
 # === <- YOUR CODE ===
+
+Making some changes to this script
